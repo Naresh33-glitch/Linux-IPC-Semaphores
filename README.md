@@ -1,5 +1,5 @@
-## NAME: SANTHOSH V
-## REG NO: 212224230252
+## NAME: NARESH S
+## REG NO: 21222420101
 
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
